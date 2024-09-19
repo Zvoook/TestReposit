@@ -1,1 +1,3 @@
 print("Hello world")
+a=int(input("Print a: "))
+b=int(input("Print b: "))
